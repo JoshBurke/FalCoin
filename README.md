@@ -1,0 +1,2 @@
+# FalCoin
+Falcon based cryptocurrency
